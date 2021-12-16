@@ -1,14 +1,20 @@
 ### Oi, eu sou o Charles Pinheiro 🤟🏼
 
 
-- 🔭 Hoje trabalho como peer coach com Python e Flask
-- 🌱 Estudando Node.js, Express, React, JS, HTML e CSS
-
 <div>
   <a href="https://github.com/Charles-Pinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charles-Pinheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Pinheiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+#### Sobre mim
+
+- 🔭 Hoje trabalho como peer coach com Python e Flask
+- 🌱 Estudando Node.js, Express, React, JS, HTML e CSS
+
+##
+
+#### Minha Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +24,7 @@
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Charles-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Charles-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Charles-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
