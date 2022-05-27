@@ -9,8 +9,8 @@
 
 #### Sobre mim
 
-- 🔭 Hoje trabalho como peer coach com Python e Flask
-- 🌱 Estudando Node.js, Express, React, JS, HTML e CSS
+- 🔭 Hoje trabalho como desenvolvedor júnior com Java EE e Angular
+- 🌱 Estudando Java, Angular e JS
 
 ##
 
