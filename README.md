@@ -9,8 +9,7 @@
 
 #### Sobre mim
 
-- 🔭 Hoje trabalho como desenvolvedor júnior com Java, Angular e Kotlin
-- 🌱 Estudando Java, Angular e JS
+- Atuo como desenvolvedor backend Java
 
 ##
 
