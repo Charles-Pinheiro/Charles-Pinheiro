@@ -1,12 +1,5 @@
 ### Oi, eu sou o Charles Pinheiro 🤟🏼
 
-
-<div>
-  <a href="https://github.com/Charles-Pinheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charles-Pinheiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-Pinheiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
 #### Sobre mim
 
 - Atuo como desenvolvedor backend Java
@@ -17,12 +10,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Charles-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Charles-PostGresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Charles-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
   ##
